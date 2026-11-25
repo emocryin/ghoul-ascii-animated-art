@@ -21,7 +21,7 @@ A looping TrueColor ASCII animation inspired by *Tokyo Ghoul*, written in pure P
 
 - Linux / macOS (uses POSIX `termios` / `fcntl` for terminal sizing)
 - Python 3.8+ (standard library only)
-- A TrueColor terminal emulator ([Kitty](https://sw.kovidgoyal.net/kitty/) recommended)
+- A TrueColor terminal emulator ([Kitty](https://sw.kovidgoyal.net/kitty/) recommende)
 
 ## Usage
 
