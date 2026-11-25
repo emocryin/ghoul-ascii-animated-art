@@ -6,7 +6,7 @@ A looping TrueColor ASCII animation inspired by *Tokyo Ghoul*, written in pure P
 ![Dependencies](https://img.shields.io/badge/dependencies-none-black?style=flat-square)
 ![Terminal](https://img.shields.io/badge/terminal-Kitty%20%7C%20TrueColor-crimson?style=flat-square)
 
-![Preview](./preview.gif)
+![Preview](<img width="900" height="506" alt="preview" src="https://github.com/user-attachments/assets/b9c7acab-f187-42c9-a4c1-946d653c6f7d" />)
 
 ## Features
 
